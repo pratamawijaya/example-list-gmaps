@@ -1,4 +1,5 @@
 Example listview with Gmaps
 ==================
 
-anu
+Contoh penerapan listview dan Gmaps
+
